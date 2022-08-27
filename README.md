@@ -1,6 +1,5 @@
 ### Here is What I'm working on! 👋
 
-<!--
 **sufalkumar/sufalkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My Website](https://www.sufalkumar.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love to write code and teach other people
--->
 
 <div>
 <animated-image data-catalyst="" style="float: right; width: 500px;"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c25ef3cf27dbd1a6dc65574562c4194bc6107a70b014f5a091860d35471daa83/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334343830312f73637265656e73686f74732f343737343537382f616c70686174657374657273616e696d6174696f6e322e6769663f7261773d74727565" data-target="animated-image.originalLink"><img align="right" alt="GIF" src="https://camo.githubusercontent.com/c25ef3cf27dbd1a6dc65574562c4194bc6107a70b014f5a091860d35471daa83/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334343830312f73637265656e73686f74732f343737343537382f616c70686174657374657273616e696d6174696f6e322e6769663f7261773d74727565" height="320" data-canonical-src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
