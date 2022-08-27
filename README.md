@@ -43,10 +43,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sufalkumar&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufalkumar&layout=compact&theme=vision-friendly-white)](https://github.com/sufalkumar/github-readme-stats)
 
+### :fire: My Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&theme=vision-friendly-white">
 
 
