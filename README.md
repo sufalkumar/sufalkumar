@@ -16,17 +16,27 @@ HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, Laravel, WordPress, Graphics Des
  <img alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="400" height="320"/>
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="badges" align="center">
+  <a href="https://facebook.com/skraj04">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a> 
+ <a href="https://www.linkedin.com/in/sufal-kumar-mondal-740235139">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCocXrUF0ZE-AXLOfvMPcnBw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/sufalkumar4">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+[website]: https://sufalkumar.com/
+[twitter]: https://twitter.com/sufalkumar4
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/in/sufal-kumar-mondal-740235139/
+[facebook]: https://www.facebook.com/skraj04/
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sufalkumar&style=flat-square&color=blue" alt=""></p>
 
