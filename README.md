@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### :fire: Sufal Kumar Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sufalkumar&theme=tokyonight_duo)](https://git.io/streak-stats)
 
