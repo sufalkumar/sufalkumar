@@ -1,8 +1,6 @@
 
 ### Hello! I am Sufal Kumar 👋
 
-<p align="center"><a href="https://sufalkumar.com"><img width="80%" alt="Hello, I'm Sufal Kumar</p>
-
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Web Developer | Professional WordPress Expert | Elementor, Divi Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
