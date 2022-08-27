@@ -1,5 +1,7 @@
-<p align="center"><a href="https://sufalkumar.com"><img width="80%" alt="Hello, I'm Sufal Kumar</p>
+
 ### Hello! I am Sufal Kumar 👋
+
+<p align="center"><a href="https://sufalkumar.com"><img width="80%" alt="Hello, I'm Sufal Kumar</p>
 
 ### :woman_technologist: &nbsp;About Me :
 
