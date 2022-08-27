@@ -4,11 +4,12 @@
 
 I am a Web Developer | Professional WordPress Expert | Elementor, Divi Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
- 🔭 I am very passionate and dedicated to my work. I am a problem solver and a great decision maker when it comes to handling difficult situations. Quick learning is my strengths of knowledge and I intend to further gain more knowledge on it over time to offer my services in the best possible way.
- 🌱 I have been working as with over 4+ years of experience in web design and development, software engineering, digital asset creation, UX design, graphic design, front-end & back-end development.
- ⚡ I use the following platforms to create my Website Development:
+ - 🔭 I am very passionate and dedicated to my work. I am a problem solver and a great decision maker when it comes to handling difficult situations. Quick learning is my strengths of knowledge and I intend to further gain more knowledge on it over time to offer my services in the best possible way.
+ - 🌱 I have been working as with over 4+ years of experience in web design and development, software engineering, digital asset creation, UX design, graphic design, front-end & back-end development.
+ - ⚡ I use the following platforms to create my Website Development:
 HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, Laravel, WordPress, Graphics Design.
- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-sufalkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sufal-kumar-mondal-740235139) - [Website](https://www.sufalkumar.com)
+ - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-sufalkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sufal-kumar-mondal-740235139) 
+ - 🔥 [My Website](https://www.sufalkumar.com)
  
 
 <div id="header" align="center">
