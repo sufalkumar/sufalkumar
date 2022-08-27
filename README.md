@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love to write code and teach other people
 
 <div id="header" align="center">
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
+ <img alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="400" height="320"/>
 </div>
 
 ### Connect With Me:
