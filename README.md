@@ -12,12 +12,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love to write code and teach other people
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://camo.githubusercontent.com/c25ef3cf27dbd1a6dc65574562c4194bc6107a70b014f5a091860d35471daa83/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334343830312f73637265656e73686f74732f343737343537382f616c70686174657374657273616e696d6174696f6e322e6769663f7261773d74727565)" width="500"/>
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 </div>
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+### Connect With Me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="mailto:fatimakhatuncse@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -49,6 +60,15 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&theme=vision-friendly-white">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sufalkumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sufalkumar )
+
+[website]: https://sufalkumar.com/
+[twitter]: https://twitter.com/sufalkumar4
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/in/sufal-kumar-mondal-740235139/
+[facebook]: https://www.facebook.com/skraj04/
 
 
 
