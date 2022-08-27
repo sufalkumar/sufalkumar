@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 <img align="left" alt="adobe-xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 </div>
 
+<br/>
+<br/>
 ### :fire: Sufal Kumar Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sufalkumar&theme=tokyonight_duo)](https://git.io/streak-stats)
