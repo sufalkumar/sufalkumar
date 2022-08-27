@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Laravel
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My Website](https://www.sufalkumar.com)
+- 📫 How to reach me: ... [Website](https://www.sufalkumar.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love to write code and teach other people
 
