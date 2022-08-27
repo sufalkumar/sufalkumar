@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <br/>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
 ### :fire: Sufal Kumar Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sufalkumar&theme=tokyonight_duo)](https://git.io/streak-stats)
