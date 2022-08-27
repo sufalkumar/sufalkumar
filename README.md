@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 <a href="mailto:sufalcse55@gmail.com">
   <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br/>
-<br/>
-<br/>
-<br/>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -55,11 +52,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufalkumar&layout=compact&theme=vision-friendly-white)](https://github.com/sufalkumar/github-readme-stats)
 
-### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&theme=vision-friendly-white">
-
 <img src="https://github-readme-stats.vercel.app/api?username=sufalkumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sufalkumar )
 
