@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sufalkumar&style=flat-square&color=blue" alt=""></p>
 
+### :woman_technologist: &nbsp;About Me :
+
+I am a Web Developer and WordPress Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 
+
 ### Connect With Me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
