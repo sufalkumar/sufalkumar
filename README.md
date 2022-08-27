@@ -27,7 +27,7 @@ HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, Laravel, WordPress, Graphics Des
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-purple-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/sufalkumar4">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -37,16 +37,6 @@ HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, Laravel, WordPress, Graphics Des
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sufalkumar&style=flat-square&color=blue" alt=""></p>
 
 
-### Connect With Me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="mailto:sufalcse55@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <br/>
 <br/>
 
@@ -84,12 +74,6 @@ HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, Laravel, WordPress, Graphics Des
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufalkumar&layout=compact&theme=vision-friendly-white)](https://github.com/sufalkumar/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sufalkumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-[website]: https://sufalkumar.com/
-[twitter]: https://twitter.com/sufalkumar4
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/sufal-kumar-mondal-740235139/
-[facebook]: https://www.facebook.com/skraj04/
 
 
 
