@@ -63,8 +63,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sufalkumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sufalkumar )
-
 [website]: https://sufalkumar.com/
 [twitter]: https://twitter.com/sufalkumar4
 [instagram]: https://www.instagram.com/
