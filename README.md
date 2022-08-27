@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <a href="mailto:sufalcse55@gmail.com">
   <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<br/>
+<br/>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
