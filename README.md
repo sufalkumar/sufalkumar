@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufalkumar&layout=compact&theme=vision-friendly-dark)](https://github.com/sufalkumar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufalkumar&layout=compact&theme=vision-friendly-white)](https://github.com/sufalkumar/github-readme-stats)
 
 
 
