@@ -4,21 +4,12 @@
 
 I am a Web Developer and WordPress Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sufal-kumar-mondal-740235139)
+- 🔭 I am a Web Developer | Professional WordPress Expert | Elementor, Divi Expert . I am very passionate and dedicated to my work. I am a problem solver and a great decision maker when it comes to handling difficult situations. Quick learning is my strengths of knowledge and I intend to further gain more knowledge on it over time to offer my services in the best possible way.
+- 🌱 I have been working as with over 4+ years of experience in web design and development, software engineering, digital asset creation, UX design, graphic design, front-end & back-end development.
+- ⚡ I use the following platforms to create my Website Development:
+HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, Laravel, WordPress, Graphics Design.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sufal-kumar-mondal-740235139) - [Website](https://www.sufalkumar.com)
 - 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Web Developer and WordPress Expert
-- 🌱 I’m currently learning ... Laravel
-- 👯 I’m looking to collaborate on ... Laravel
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Website](https://www.sufalkumar.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love to write code and teach other people
 
 <div id="header" align="center">
  <img alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="400" height="320"/>
