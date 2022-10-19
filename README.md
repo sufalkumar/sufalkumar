@@ -9,7 +9,7 @@ I am a Web Developer | Professional WordPress Expert | Elementor, Divi Expert <i
  - 🌱 I have been working as with over 4+ years of experience in web design and development, software engineering, digital asset creation, UX design, graphic design, front-end & back-end development.
  - ⚡ I use the following platforms to create my Website Development:
 HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, Laravel, WordPress, Graphics Design.
- - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-sufalkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sufal-kumar-mondal-740235139) 
+ - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-sufalkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/skraj04) 
  - 🔥 [My Website](https://www.sufalkumar.com)
  
 
@@ -21,7 +21,7 @@ HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL, Laravel, WordPress, Graphics Des
   <a href="https://facebook.com/skraj04">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a> 
- <a href="https://www.linkedin.com/in/sufal-kumar-mondal-740235139">
+ <a href="https://www.linkedin.com/in/skraj04">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCocXrUF0ZE-AXLOfvMPcnBw">
